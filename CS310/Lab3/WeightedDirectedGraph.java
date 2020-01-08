@@ -67,7 +67,7 @@ class WeightedDirectedGraph {
 	
 	protected ArrayList<String> detectOutbound () {
 		ArrayList<String> foundVertex = new ArrayList<String>();
-		//created this arraylist to collect vertices with 0 outbound val
+		//created this arraylist to collect vertices with 0 outbound value
 		for (Map.Entry mapElement : outermap.entrySet()) {
 			String key = (String) mapElement.getKey();
 			if (outermap.get(key).isEmpty())
