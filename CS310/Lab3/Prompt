@@ -1,1 +1,0 @@
-In this programming assignment, students shall build an application whichconstructsaweighted,directedgraphfromasingleCSVfile. Students must build both the driver application, responsible for loading the data and displaying information about the graph, as well as the weighted-directed graph itself.
