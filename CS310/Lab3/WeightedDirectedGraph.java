@@ -1,6 +1,4 @@
 //Author: Zixiao Guo
-//cssc0942
-//RedID: 822029189
 import java.util.*;
 import java.io.*;
 
